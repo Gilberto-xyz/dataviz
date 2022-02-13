@@ -1,5 +1,4 @@
-# Dataviz
-## Visualizacion de datos con Altair
+# Visualizacion de datos con Altair
 Mediante el dataset incluido con Altair (vega_datasets) se muestran los siguientes datos relacionados a la poblacion de Japón. 
 
 ## Version sin modificaciones  
